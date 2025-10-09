@@ -8,8 +8,11 @@ Front-end practice project showcasing a luxury sports club landing page design, 
 ##
 
 I just completed a new practice project 🎯
+
 This project was created in collaboration with two talented UI/UX designers, and I was responsible for front-end development.
+
 My goal for this exercise was to improve my front-end skills and focus on design details.
+
 This project is designed for desktop view only.
 
 ## 🛠️ Tech Stack
