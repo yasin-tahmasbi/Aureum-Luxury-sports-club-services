@@ -21,7 +21,7 @@ This project is designed for desktop view only.
 
 ## 👤 Credits
 
-- **Developed by:** [Yasin Tahmasbi](https://www.instagram.com/yasin_tahmasbii)
+- **Developed by:** [Yasin Tahmasbi](https://yasintahmasbi.ir/)
 - **Design by:** [Hanieh Hamzeh](https://www.linkedin.com/in/haniehamzeh/) & [Sara Zargan](https://www.linkedin.com/in/sara-zargan-80b7b02b6/)
 - **Mentorship:** [Parsa Ghorbanian](https://www.instagram.com/parsa_ghorbanian_web/#)
 - **Date:** Oct , 2025
