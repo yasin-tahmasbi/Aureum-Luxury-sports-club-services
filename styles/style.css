@@ -51,8 +51,6 @@
             background-color: var(--White);
 
             >.logo {
-                width: 226px;
-
                 >a {
 
                     font-weight: 700;
