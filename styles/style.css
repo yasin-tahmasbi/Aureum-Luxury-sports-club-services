@@ -670,7 +670,7 @@
                         &:nth-of-type(1) {
                             display: flex;
                             flex-wrap: wrap;
-                            gap: 65px;
+                            gap: 20px;
                             align-items: center;
 
                             >span {
@@ -679,7 +679,7 @@
                                 height: 4px;
                                 border-radius: 6px;
                                 background-color: var(--secondry);
-                                margin-right: 12px;
+                                margin-right: 10%;
                             }
 
                             >h2 {
