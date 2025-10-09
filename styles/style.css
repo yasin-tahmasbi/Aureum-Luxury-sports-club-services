@@ -52,6 +52,7 @@
 
             >.logo {
                 width: 243px;
+
                 >a {
 
                     font-weight: 700;
@@ -579,7 +580,7 @@
                                 margin-bottom: 30px;
                                 height: 0;
                                 opacity: 0;
-                                transition: all 0.2s;
+                                transition: all 0.4s;
 
 
                                 >.contentText {
@@ -615,10 +616,10 @@
 
                                 >.contentImg {
                                     >img {
-                                    border-radius: 16px;
-                                    width: 150px;
-                                    height: 170px;
-                                    object-fit: cover;
+                                        border-radius: 16px;
+                                        width: 150px;
+                                        height: 170px;
+                                        object-fit: cover;
                                     }
                                 }
                             }
