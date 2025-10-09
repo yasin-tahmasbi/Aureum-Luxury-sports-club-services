@@ -113,10 +113,10 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    gap: 30px;
+                    gap: 12px;
                     background-color: var(--primary);
                     border-radius: 32px;
-                    padding: 12px 17px 14px 18px;
+                    padding: 14px 18px 14px 18px;
                     cursor: pointer;
 
                     &:hover {
@@ -125,13 +125,13 @@
 
                         >span {
                             color: var(--primary);
-                            transform: translateX(35%);
+                            transform: translateX(30%);
 
                         }
 
                         >svg {
 
-                            transform: translateX(-565%);
+                            transform: translateX(-500%);
 
                             path {
                                 stroke: var(--secondry);
@@ -204,10 +204,10 @@
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            gap: 8px;
+                            gap: 12px;
                             background-color: var(--primary);
                             border-radius: 32px;
-                            padding: 16px 24px 16px 24px;
+                            padding: 14px 18px 14px 18px;
                             cursor: pointer;
 
                             &:hover {
@@ -216,13 +216,13 @@
 
                                 >span {
                                     color: var(--primary);
-                                    transform: translateX(27%);
+                                    transform: translateX(30%);
 
                                 }
 
                                 >svg {
 
-                                    transform: translateX(-460%);
+                                    transform: translateX(-470%);
 
                                     path {
                                         stroke: var(--secondry);
@@ -253,8 +253,8 @@
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            gap: 8px;
-                            padding: 16px 24px 16px 24px;
+                            gap: 12px;
+                            padding: 14px 18px 14px 18px;
                             background-color: var(--whiteT20);
                             border-radius: 32px;
                             cursor: pointer;
@@ -366,6 +366,7 @@
     >main {
         >.sec1 {
             margin-bottom: 120px;
+            padding: 0 40px;
 
             >div {
                 &:nth-of-type(1) {
@@ -409,13 +410,14 @@
 
         >.sec2 {
             margin-bottom: 120px;
+            padding: 0 40px;
 
             >div {
                 &:nth-of-type(1) {
                     display: flex;
                     align-items: center;
                     gap: 12px;
-                    margin-bottom: 40px;
+                    margin-bottom: 20px;
 
                     >span {
                         display: inline-block;
@@ -440,7 +442,7 @@
                     >.sec2Left {
                         display: flex;
                         flex-direction: column;
-                        gap: 40px;
+                        gap: 32px;
                         width: 45%;
                         max-width: 503px;
 
@@ -898,6 +900,7 @@
             height: 100%;
             min-height: 708px;
             margin-bottom: 120px;
+            padding: 0 40px;
 
             >.sec5Col1 {
                 display: flex;
@@ -1185,6 +1188,8 @@
             background-color: var(--primary2);
             border-radius: 30px;
             padding: 40px 30px;
+            margin-right: 40px;
+            margin-left: 40px;
             display: flex;
             flex-direction: row-reverse;
             justify-content: space-between;
