@@ -28,14 +28,14 @@ This project is designed for desktop view only.
 - **Design by:** [Hanieh Hamzeh](https://www.linkedin.com/in/haniehamzeh/) & [Sara Zargan](https://www.linkedin.com/in/sara-zargan-80b7b02b6/)
 - **Mentorship:** [Parsa Ghorbanian](https://www.instagram.com/parsa_ghorbanian_web/#)
 - **Date:** Oct , 2025
-## **🔗 Connect with Me**
 
-I'm always happy to connect! Reach out or follow me on:
 
--  [**Instagram**](https://www.instagram.com/yasin_tahmasbii)
--  [**LinkedIn**](https://www.linkedin.com/in/yasin-tahmasbi)
--  [**GitHub**](https://github.com/yasin-tahmasbi)
--  [**Email**](mailto:yasintahmasb@gmail.com)
+## **🔗 Want to reach out?**
+
+Everything you need is on my website 👇
+
+-  [**www.yasintahmasbi.ir**](https://www.yasintahmasbi.ir)
+
 
 ## 📷 Preview | Screenshots
 
